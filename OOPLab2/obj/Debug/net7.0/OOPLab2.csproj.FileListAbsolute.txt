@@ -1,0 +1,15 @@
+/Users/ken/Projects/OOPLab2/OOPLab2/bin/Debug/net7.0/OOPLab2
+/Users/ken/Projects/OOPLab2/OOPLab2/bin/Debug/net7.0/OOPLab2.deps.json
+/Users/ken/Projects/OOPLab2/OOPLab2/bin/Debug/net7.0/OOPLab2.runtimeconfig.json
+/Users/ken/Projects/OOPLab2/OOPLab2/bin/Debug/net7.0/OOPLab2.dll
+/Users/ken/Projects/OOPLab2/OOPLab2/bin/Debug/net7.0/OOPLab2.pdb
+/Users/ken/Projects/OOPLab2/OOPLab2/obj/Debug/net7.0/OOPLab2.csproj.AssemblyReference.cache
+/Users/ken/Projects/OOPLab2/OOPLab2/obj/Debug/net7.0/OOPLab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ken/Projects/OOPLab2/OOPLab2/obj/Debug/net7.0/OOPLab2.AssemblyInfoInputs.cache
+/Users/ken/Projects/OOPLab2/OOPLab2/obj/Debug/net7.0/OOPLab2.AssemblyInfo.cs
+/Users/ken/Projects/OOPLab2/OOPLab2/obj/Debug/net7.0/OOPLab2.csproj.CoreCompileInputs.cache
+/Users/ken/Projects/OOPLab2/OOPLab2/obj/Debug/net7.0/OOPLab2.dll
+/Users/ken/Projects/OOPLab2/OOPLab2/obj/Debug/net7.0/refint/OOPLab2.dll
+/Users/ken/Projects/OOPLab2/OOPLab2/obj/Debug/net7.0/OOPLab2.pdb
+/Users/ken/Projects/OOPLab2/OOPLab2/obj/Debug/net7.0/OOPLab2.genruntimeconfig.cache
+/Users/ken/Projects/OOPLab2/OOPLab2/obj/Debug/net7.0/ref/OOPLab2.dll
